@@ -67,7 +67,7 @@ const Login = () => {
             <img src={brainwaveWhiteSymbol} className="h-10 w-10 inline-block" />
             <div className="text-white text-center">
               <h2 className="font-bold text-3xl uppercase text-white">
-                SolaOptAI Login
+                SolarOptAI Login
               </h2>
             </div>
           </div>
