@@ -55,7 +55,8 @@ https://solaroptai.vercel.app
 
 ## Author
 
-SolarOptAI Team  
+Dariana Navarro
+SolarOptAI Founder  
 Focused on building AI solutions for climate resilience and sustainable energy.
 
 ## License
